@@ -30,6 +30,7 @@ public class AddPlace {
 		JsonPath js=new JsonPath(response); //for parsing Json
 		String Placeid=js.getString("place_id");
 		System.out.println(Placeid);
+		System.out.println(Placeid+"place is");
 		
 	}
 
