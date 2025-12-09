@@ -33,6 +33,10 @@ public class AddPlace {
 		System.out.println(Placeid+"place is1");
 		System.out.println(Placeid+"place is1");
 		System.out.println(Placeid+"place is32");
+		System.out.println(Placeid);
+		System.out.println(Placeid+"place is1");
+		System.out.println(Placeid+"place is1");
+		System.out.println(Placeid+"place is32");
 		
 	}
 
